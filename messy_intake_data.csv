@@ -1,0 +1,6 @@
+client_name,email,status,revenue
+john smith,john@example.com,new,1200
+John Smith ,john@example.com ,NEW,1200
+ ACME LLC,contact@acme.com,pending,9500
+mary jones,mary@test.com,closed,3000
+M. Jones,mary@test.com,closed,3000
